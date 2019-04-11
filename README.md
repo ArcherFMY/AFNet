@@ -19,7 +19,7 @@ _comming soon..._
 
 ## Performance Preview
 Quantitative comparisons
-![table2](https://github.com/ArcherFMY/AFNet/blob/master/figures/talbe2.png "table2")
+![table2](https://github.com/ArcherFMY/AFNet/blob/master/figures/table2.png "table2")
 
 Quanlitative comparisons
 ![fig5](https://github.com/ArcherFMY/AFNet/blob/master/figures/fig5.png "fig5")
