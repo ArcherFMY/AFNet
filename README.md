@@ -23,7 +23,7 @@ The code has been tested successfully on Ubuntu 14.04 with CUDA 8.0 and OpenCV 3
 make matcaffe -j
 ```
 
-4. Download pretrained caffemodel from [[baidu yun](链接: https://pan.baidu.com/s/1DkAM0om90XCKGlmPoi_Lzg)] (Fetch Code: sifm) and extract the .zip file under the root directory `AFNet/`. 
+4. Download pretrained caffemodel from [[baidu yun](https://pan.baidu.com/s/1DkAM0om90XCKGlmPoi_Lzg)] (Fetch Code: sifm) and extract the .zip file under the root directory `AFNet/`. 
 
 5. Put the test image in `AFNet/test-Image/` and run `test_AFNet.m` to get the saliency maps. The results will be saved in `AFNet/results/AFNet/`
 
