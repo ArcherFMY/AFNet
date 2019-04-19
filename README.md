@@ -1,5 +1,6 @@
 # AFNet
-Code for paper in CVPR2019, 'Attentive Feedback Network for Boundary-aware Salient Object Detection', Mengyang Feng, [Huchuan Lu](http://ice.dlut.edu.cn/lu/publications.html) and Errui Ding
+Code for paper in CVPR2019, 'Attentive Feedback Network for Boundary-aware Salient Object Detection', Mengyang Feng, [Huchuan Lu](http://ice.dlut.edu.cn/lu/publications.html) and Errui Ding. [[google drive](https://drive.google.com/open?id=1EVZR8cNGUv3zb7JtR1fxbXZ8lp5mbgWe)] [[baidu yun](https://pan.baidu.com/s/1n-dRVC4sLWCmhhD5bnVXqg
+)]
 
 __Contact__:  Mengyang Feng, Email: mengyang_feng@mail.dlut.edu.cn
 
