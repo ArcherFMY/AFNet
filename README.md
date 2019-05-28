@@ -19,8 +19,9 @@ git clone https://github.com/ArcherFMY/AFNet.git
 
 The code has been tested successfully on Ubuntu 14.04 with CUDA 8.0 and OpenCV 3.1.0
 
-3. Make `matcaffe`
+3. Make `caffe` & `matcaffe`
 ```
+make all -j
 make matcaffe -j
 ```
 
@@ -32,7 +33,7 @@ make matcaffe -j
 Quantitative comparisons
 ![table2](https://github.com/ArcherFMY/AFNet/blob/master/figures/table2.png "table2")
 
-Quanlitative comparisons
+Qualitative comparisons
 ![fig5](https://github.com/ArcherFMY/AFNet/blob/master/figures/fig5.png "fig5")
 
 The scores are computed using this [evaluation tool box](https://github.com/ArcherFMY/sal_eval_toolbox)
